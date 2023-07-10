@@ -1,0 +1,2 @@
+# 2.-Relationship-between-hypertension-and-psychopathology
+ Foundation document for the creation of a machine learning project. This would enable improvements in the healthcare management software by detecting risk parameters and triggering early alerts. The document would provide a breakdown of relevant variables related to the problem and specify general and specific blood pressure thresholds that may affect each patient. It would be a predictive model.
